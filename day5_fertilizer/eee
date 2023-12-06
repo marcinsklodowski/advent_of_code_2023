@@ -1,0 +1,584 @@
+
+
+Line 50 98 2
+
+Adding edge from seed_98 to soil_50, value 50
+Adding edge from seed_99 to soil_51, value 51
+
+
+Line 52 50 48
+
+Adding edge from seed_50 to soil_52, value 52
+Adding edge from seed_51 to soil_53, value 53
+Adding edge from seed_52 to soil_54, value 54
+Adding edge from seed_53 to soil_55, value 55
+Adding edge from seed_54 to soil_56, value 56
+Adding edge from seed_55 to soil_57, value 57
+Adding edge from seed_56 to soil_58, value 58
+Adding edge from seed_57 to soil_59, value 59
+Adding edge from seed_58 to soil_60, value 60
+Adding edge from seed_59 to soil_61, value 61
+Adding edge from seed_60 to soil_62, value 62
+Adding edge from seed_61 to soil_63, value 63
+Adding edge from seed_62 to soil_64, value 64
+Adding edge from seed_63 to soil_65, value 65
+Adding edge from seed_64 to soil_66, value 66
+Adding edge from seed_65 to soil_67, value 67
+Adding edge from seed_66 to soil_68, value 68
+Adding edge from seed_67 to soil_69, value 69
+Adding edge from seed_68 to soil_70, value 70
+Adding edge from seed_69 to soil_71, value 71
+Adding edge from seed_70 to soil_72, value 72
+Adding edge from seed_71 to soil_73, value 73
+Adding edge from seed_72 to soil_74, value 74
+Adding edge from seed_73 to soil_75, value 75
+Adding edge from seed_74 to soil_76, value 76
+Adding edge from seed_75 to soil_77, value 77
+Adding edge from seed_76 to soil_78, value 78
+Adding edge from seed_77 to soil_79, value 79
+Adding edge from seed_78 to soil_80, value 80
+Adding edge from seed_79 to soil_81, value 81
+Adding edge from seed_80 to soil_82, value 82
+Adding edge from seed_81 to soil_83, value 83
+Adding edge from seed_82 to soil_84, value 84
+Adding edge from seed_83 to soil_85, value 85
+Adding edge from seed_84 to soil_86, value 86
+Adding edge from seed_85 to soil_87, value 87
+Adding edge from seed_86 to soil_88, value 88
+Adding edge from seed_87 to soil_89, value 89
+Adding edge from seed_88 to soil_90, value 90
+Adding edge from seed_89 to soil_91, value 91
+Adding edge from seed_90 to soil_92, value 92
+Adding edge from seed_91 to soil_93, value 93
+Adding edge from seed_92 to soil_94, value 94
+Adding edge from seed_93 to soil_95, value 95
+Adding edge from seed_94 to soil_96, value 96
+Adding edge from seed_95 to soil_97, value 97
+Adding edge from seed_96 to soil_98, value 98
+Adding edge from seed_97 to soil_99, value 99
+
+
+Line 0 15 37
+
+Adding edge from soil_15 to fertilizer_0, value 0
+Adding edge from soil_16 to fertilizer_1, value 1
+Adding edge from soil_17 to fertilizer_2, value 2
+Adding edge from soil_18 to fertilizer_3, value 3
+Adding edge from soil_19 to fertilizer_4, value 4
+Adding edge from soil_20 to fertilizer_5, value 5
+Adding edge from soil_21 to fertilizer_6, value 6
+Adding edge from soil_22 to fertilizer_7, value 7
+Adding edge from soil_23 to fertilizer_8, value 8
+Adding edge from soil_24 to fertilizer_9, value 9
+Adding edge from soil_25 to fertilizer_10, value 10
+Adding edge from soil_26 to fertilizer_11, value 11
+Adding edge from soil_27 to fertilizer_12, value 12
+Adding edge from soil_28 to fertilizer_13, value 13
+Adding edge from soil_29 to fertilizer_14, value 14
+Adding edge from soil_30 to fertilizer_15, value 15
+Adding edge from soil_31 to fertilizer_16, value 16
+Adding edge from soil_32 to fertilizer_17, value 17
+Adding edge from soil_33 to fertilizer_18, value 18
+Adding edge from soil_34 to fertilizer_19, value 19
+Adding edge from soil_35 to fertilizer_20, value 20
+Adding edge from soil_36 to fertilizer_21, value 21
+Adding edge from soil_37 to fertilizer_22, value 22
+Adding edge from soil_38 to fertilizer_23, value 23
+Adding edge from soil_39 to fertilizer_24, value 24
+Adding edge from soil_40 to fertilizer_25, value 25
+Adding edge from soil_41 to fertilizer_26, value 26
+Adding edge from soil_42 to fertilizer_27, value 27
+Adding edge from soil_43 to fertilizer_28, value 28
+Adding edge from soil_44 to fertilizer_29, value 29
+Adding edge from soil_45 to fertilizer_30, value 30
+Adding edge from soil_46 to fertilizer_31, value 31
+Adding edge from soil_47 to fertilizer_32, value 32
+Adding edge from soil_48 to fertilizer_33, value 33
+Adding edge from soil_49 to fertilizer_34, value 34
+Adding edge from soil_50 to fertilizer_35, value 35
+Adding edge from soil_51 to fertilizer_36, value 36
+
+
+Line 37 52 2
+
+Adding edge from soil_52 to fertilizer_37, value 37
+Adding edge from soil_53 to fertilizer_38, value 38
+
+
+Line 39 0 15
+
+Adding edge from soil_0 to fertilizer_39, value 39
+Adding edge from soil_1 to fertilizer_40, value 40
+Adding edge from soil_2 to fertilizer_41, value 41
+Adding edge from soil_3 to fertilizer_42, value 42
+Adding edge from soil_4 to fertilizer_43, value 43
+Adding edge from soil_5 to fertilizer_44, value 44
+Adding edge from soil_6 to fertilizer_45, value 45
+Adding edge from soil_7 to fertilizer_46, value 46
+Adding edge from soil_8 to fertilizer_47, value 47
+Adding edge from soil_9 to fertilizer_48, value 48
+Adding edge from soil_10 to fertilizer_49, value 49
+Adding edge from soil_11 to fertilizer_50, value 50
+Adding edge from soil_12 to fertilizer_51, value 51
+Adding edge from soil_13 to fertilizer_52, value 52
+Adding edge from soil_14 to fertilizer_53, value 53
+
+
+Line 49 53 8
+
+Adding edge from fertilizer_53 to water_49, value 49
+Adding edge from fertilizer_54 to water_50, value 50
+Adding edge from fertilizer_55 to water_51, value 51
+Adding edge from fertilizer_56 to water_52, value 52
+Adding edge from fertilizer_57 to water_53, value 53
+Adding edge from fertilizer_58 to water_54, value 54
+Adding edge from fertilizer_59 to water_55, value 55
+Adding edge from fertilizer_60 to water_56, value 56
+
+
+Line 0 11 42
+
+Adding edge from fertilizer_11 to water_0, value 0
+Adding edge from fertilizer_12 to water_1, value 1
+Adding edge from fertilizer_13 to water_2, value 2
+Adding edge from fertilizer_14 to water_3, value 3
+Adding edge from fertilizer_15 to water_4, value 4
+Adding edge from fertilizer_16 to water_5, value 5
+Adding edge from fertilizer_17 to water_6, value 6
+Adding edge from fertilizer_18 to water_7, value 7
+Adding edge from fertilizer_19 to water_8, value 8
+Adding edge from fertilizer_20 to water_9, value 9
+Adding edge from fertilizer_21 to water_10, value 10
+Adding edge from fertilizer_22 to water_11, value 11
+Adding edge from fertilizer_23 to water_12, value 12
+Adding edge from fertilizer_24 to water_13, value 13
+Adding edge from fertilizer_25 to water_14, value 14
+Adding edge from fertilizer_26 to water_15, value 15
+Adding edge from fertilizer_27 to water_16, value 16
+Adding edge from fertilizer_28 to water_17, value 17
+Adding edge from fertilizer_29 to water_18, value 18
+Adding edge from fertilizer_30 to water_19, value 19
+Adding edge from fertilizer_31 to water_20, value 20
+Adding edge from fertilizer_32 to water_21, value 21
+Adding edge from fertilizer_33 to water_22, value 22
+Adding edge from fertilizer_34 to water_23, value 23
+Adding edge from fertilizer_35 to water_24, value 24
+Adding edge from fertilizer_36 to water_25, value 25
+Adding edge from fertilizer_37 to water_26, value 26
+Adding edge from fertilizer_38 to water_27, value 27
+Adding edge from fertilizer_39 to water_28, value 28
+Adding edge from fertilizer_40 to water_29, value 29
+Adding edge from fertilizer_41 to water_30, value 30
+Adding edge from fertilizer_42 to water_31, value 31
+Adding edge from fertilizer_43 to water_32, value 32
+Adding edge from fertilizer_44 to water_33, value 33
+Adding edge from fertilizer_45 to water_34, value 34
+Adding edge from fertilizer_46 to water_35, value 35
+Adding edge from fertilizer_47 to water_36, value 36
+Adding edge from fertilizer_48 to water_37, value 37
+Adding edge from fertilizer_49 to water_38, value 38
+Adding edge from fertilizer_50 to water_39, value 39
+Adding edge from fertilizer_51 to water_40, value 40
+Adding edge from fertilizer_52 to water_41, value 41
+
+
+Line 42 0 7
+
+Adding edge from fertilizer_0 to water_42, value 42
+Adding edge from fertilizer_1 to water_43, value 43
+Adding edge from fertilizer_2 to water_44, value 44
+Adding edge from fertilizer_3 to water_45, value 45
+Adding edge from fertilizer_4 to water_46, value 46
+Adding edge from fertilizer_5 to water_47, value 47
+Adding edge from fertilizer_6 to water_48, value 48
+
+
+Line 57 7 4
+
+Adding edge from fertilizer_7 to water_57, value 57
+Adding edge from fertilizer_8 to water_58, value 58
+Adding edge from fertilizer_9 to water_59, value 59
+Adding edge from fertilizer_10 to water_60, value 60
+
+
+Line 88 18 7
+
+Adding edge from water_18 to light_88, value 88
+Adding edge from water_19 to light_89, value 89
+Adding edge from water_20 to light_90, value 90
+Adding edge from water_21 to light_91, value 91
+Adding edge from water_22 to light_92, value 92
+Adding edge from water_23 to light_93, value 93
+Adding edge from water_24 to light_94, value 94
+
+
+Line 18 25 70
+
+Adding edge from water_25 to light_18, value 18
+Adding edge from water_26 to light_19, value 19
+Adding edge from water_27 to light_20, value 20
+Adding edge from water_28 to light_21, value 21
+Adding edge from water_29 to light_22, value 22
+Adding edge from water_30 to light_23, value 23
+Adding edge from water_31 to light_24, value 24
+Adding edge from water_32 to light_25, value 25
+Adding edge from water_33 to light_26, value 26
+Adding edge from water_34 to light_27, value 27
+Adding edge from water_35 to light_28, value 28
+Adding edge from water_36 to light_29, value 29
+Adding edge from water_37 to light_30, value 30
+Adding edge from water_38 to light_31, value 31
+Adding edge from water_39 to light_32, value 32
+Adding edge from water_40 to light_33, value 33
+Adding edge from water_41 to light_34, value 34
+Adding edge from water_42 to light_35, value 35
+Adding edge from water_43 to light_36, value 36
+Adding edge from water_44 to light_37, value 37
+Adding edge from water_45 to light_38, value 38
+Adding edge from water_46 to light_39, value 39
+Adding edge from water_47 to light_40, value 40
+Adding edge from water_48 to light_41, value 41
+Adding edge from water_49 to light_42, value 42
+Adding edge from water_50 to light_43, value 43
+Adding edge from water_51 to light_44, value 44
+Adding edge from water_52 to light_45, value 45
+Adding edge from water_53 to light_46, value 46
+Adding edge from water_54 to light_47, value 47
+Adding edge from water_55 to light_48, value 48
+Adding edge from water_56 to light_49, value 49
+Adding edge from water_57 to light_50, value 50
+Adding edge from water_58 to light_51, value 51
+Adding edge from water_59 to light_52, value 52
+Adding edge from water_60 to light_53, value 53
+Adding edge from water_61 to light_54, value 54
+Adding edge from water_62 to light_55, value 55
+Adding edge from water_63 to light_56, value 56
+Adding edge from water_64 to light_57, value 57
+Adding edge from water_65 to light_58, value 58
+Adding edge from water_66 to light_59, value 59
+Adding edge from water_67 to light_60, value 60
+Adding edge from water_68 to light_61, value 61
+Adding edge from water_69 to light_62, value 62
+Adding edge from water_70 to light_63, value 63
+Adding edge from water_71 to light_64, value 64
+Adding edge from water_72 to light_65, value 65
+Adding edge from water_73 to light_66, value 66
+Adding edge from water_74 to light_67, value 67
+Adding edge from water_75 to light_68, value 68
+Adding edge from water_76 to light_69, value 69
+Adding edge from water_77 to light_70, value 70
+Adding edge from water_78 to light_71, value 71
+Adding edge from water_79 to light_72, value 72
+Adding edge from water_80 to light_73, value 73
+Adding edge from water_81 to light_74, value 74
+Adding edge from water_82 to light_75, value 75
+Adding edge from water_83 to light_76, value 76
+Adding edge from water_84 to light_77, value 77
+Adding edge from water_85 to light_78, value 78
+Adding edge from water_86 to light_79, value 79
+Adding edge from water_87 to light_80, value 80
+Adding edge from water_88 to light_81, value 81
+Adding edge from water_89 to light_82, value 82
+Adding edge from water_90 to light_83, value 83
+Adding edge from water_91 to light_84, value 84
+Adding edge from water_92 to light_85, value 85
+Adding edge from water_93 to light_86, value 86
+Adding edge from water_94 to light_87, value 87
+
+
+Line 45 77 23
+
+Adding edge from light_77 to temperature_45, value 45
+Adding edge from light_78 to temperature_46, value 46
+Adding edge from light_79 to temperature_47, value 47
+Adding edge from light_80 to temperature_48, value 48
+Adding edge from light_81 to temperature_49, value 49
+Adding edge from light_82 to temperature_50, value 50
+Adding edge from light_83 to temperature_51, value 51
+Adding edge from light_84 to temperature_52, value 52
+Adding edge from light_85 to temperature_53, value 53
+Adding edge from light_86 to temperature_54, value 54
+Adding edge from light_87 to temperature_55, value 55
+Adding edge from light_88 to temperature_56, value 56
+Adding edge from light_89 to temperature_57, value 57
+Adding edge from light_90 to temperature_58, value 58
+Adding edge from light_91 to temperature_59, value 59
+Adding edge from light_92 to temperature_60, value 60
+Adding edge from light_93 to temperature_61, value 61
+Adding edge from light_94 to temperature_62, value 62
+Adding edge from light_95 to temperature_63, value 63
+Adding edge from light_96 to temperature_64, value 64
+Adding edge from light_97 to temperature_65, value 65
+Adding edge from light_98 to temperature_66, value 66
+Adding edge from light_99 to temperature_67, value 67
+
+
+Line 81 45 19
+
+Adding edge from light_45 to temperature_81, value 81
+Adding edge from light_46 to temperature_82, value 82
+Adding edge from light_47 to temperature_83, value 83
+Adding edge from light_48 to temperature_84, value 84
+Adding edge from light_49 to temperature_85, value 85
+Adding edge from light_50 to temperature_86, value 86
+Adding edge from light_51 to temperature_87, value 87
+Adding edge from light_52 to temperature_88, value 88
+Adding edge from light_53 to temperature_89, value 89
+Adding edge from light_54 to temperature_90, value 90
+Adding edge from light_55 to temperature_91, value 91
+Adding edge from light_56 to temperature_92, value 92
+Adding edge from light_57 to temperature_93, value 93
+Adding edge from light_58 to temperature_94, value 94
+Adding edge from light_59 to temperature_95, value 95
+Adding edge from light_60 to temperature_96, value 96
+Adding edge from light_61 to temperature_97, value 97
+Adding edge from light_62 to temperature_98, value 98
+Adding edge from light_63 to temperature_99, value 99
+
+
+Line 68 64 13
+
+Adding edge from light_64 to temperature_68, value 68
+Adding edge from light_65 to temperature_69, value 69
+Adding edge from light_66 to temperature_70, value 70
+Adding edge from light_67 to temperature_71, value 71
+Adding edge from light_68 to temperature_72, value 72
+Adding edge from light_69 to temperature_73, value 73
+Adding edge from light_70 to temperature_74, value 74
+Adding edge from light_71 to temperature_75, value 75
+Adding edge from light_72 to temperature_76, value 76
+Adding edge from light_73 to temperature_77, value 77
+Adding edge from light_74 to temperature_78, value 78
+Adding edge from light_75 to temperature_79, value 79
+Adding edge from light_76 to temperature_80, value 80
+
+
+Line 0 69 1
+
+Adding edge from temperature_69 to humidity_0, value 0
+
+
+Line 1 0 69
+
+Adding edge from temperature_0 to humidity_1, value 1
+Adding edge from temperature_1 to humidity_2, value 2
+Adding edge from temperature_2 to humidity_3, value 3
+Adding edge from temperature_3 to humidity_4, value 4
+Adding edge from temperature_4 to humidity_5, value 5
+Adding edge from temperature_5 to humidity_6, value 6
+Adding edge from temperature_6 to humidity_7, value 7
+Adding edge from temperature_7 to humidity_8, value 8
+Adding edge from temperature_8 to humidity_9, value 9
+Adding edge from temperature_9 to humidity_10, value 10
+Adding edge from temperature_10 to humidity_11, value 11
+Adding edge from temperature_11 to humidity_12, value 12
+Adding edge from temperature_12 to humidity_13, value 13
+Adding edge from temperature_13 to humidity_14, value 14
+Adding edge from temperature_14 to humidity_15, value 15
+Adding edge from temperature_15 to humidity_16, value 16
+Adding edge from temperature_16 to humidity_17, value 17
+Adding edge from temperature_17 to humidity_18, value 18
+Adding edge from temperature_18 to humidity_19, value 19
+Adding edge from temperature_19 to humidity_20, value 20
+Adding edge from temperature_20 to humidity_21, value 21
+Adding edge from temperature_21 to humidity_22, value 22
+Adding edge from temperature_22 to humidity_23, value 23
+Adding edge from temperature_23 to humidity_24, value 24
+Adding edge from temperature_24 to humidity_25, value 25
+Adding edge from temperature_25 to humidity_26, value 26
+Adding edge from temperature_26 to humidity_27, value 27
+Adding edge from temperature_27 to humidity_28, value 28
+Adding edge from temperature_28 to humidity_29, value 29
+Adding edge from temperature_29 to humidity_30, value 30
+Adding edge from temperature_30 to humidity_31, value 31
+Adding edge from temperature_31 to humidity_32, value 32
+Adding edge from temperature_32 to humidity_33, value 33
+Adding edge from temperature_33 to humidity_34, value 34
+Adding edge from temperature_34 to humidity_35, value 35
+Adding edge from temperature_35 to humidity_36, value 36
+Adding edge from temperature_36 to humidity_37, value 37
+Adding edge from temperature_37 to humidity_38, value 38
+Adding edge from temperature_38 to humidity_39, value 39
+Adding edge from temperature_39 to humidity_40, value 40
+Adding edge from temperature_40 to humidity_41, value 41
+Adding edge from temperature_41 to humidity_42, value 42
+Adding edge from temperature_42 to humidity_43, value 43
+Adding edge from temperature_43 to humidity_44, value 44
+Adding edge from temperature_44 to humidity_45, value 45
+Adding edge from temperature_45 to humidity_46, value 46
+Adding edge from temperature_46 to humidity_47, value 47
+Adding edge from temperature_47 to humidity_48, value 48
+Adding edge from temperature_48 to humidity_49, value 49
+Adding edge from temperature_49 to humidity_50, value 50
+Adding edge from temperature_50 to humidity_51, value 51
+Adding edge from temperature_51 to humidity_52, value 52
+Adding edge from temperature_52 to humidity_53, value 53
+Adding edge from temperature_53 to humidity_54, value 54
+Adding edge from temperature_54 to humidity_55, value 55
+Adding edge from temperature_55 to humidity_56, value 56
+Adding edge from temperature_56 to humidity_57, value 57
+Adding edge from temperature_57 to humidity_58, value 58
+Adding edge from temperature_58 to humidity_59, value 59
+Adding edge from temperature_59 to humidity_60, value 60
+Adding edge from temperature_60 to humidity_61, value 61
+Adding edge from temperature_61 to humidity_62, value 62
+Adding edge from temperature_62 to humidity_63, value 63
+Adding edge from temperature_63 to humidity_64, value 64
+Adding edge from temperature_64 to humidity_65, value 65
+Adding edge from temperature_65 to humidity_66, value 66
+Adding edge from temperature_66 to humidity_67, value 67
+Adding edge from temperature_67 to humidity_68, value 68
+Adding edge from temperature_68 to humidity_69, value 69
+
+
+Line 60 56 37
+
+Adding edge from humidity_56 to location_60, value 60
+Adding edge from humidity_57 to location_61, value 61
+Adding edge from humidity_58 to location_62, value 62
+Adding edge from humidity_59 to location_63, value 63
+Adding edge from humidity_60 to location_64, value 64
+Adding edge from humidity_61 to location_65, value 65
+Adding edge from humidity_62 to location_66, value 66
+Adding edge from humidity_63 to location_67, value 67
+Adding edge from humidity_64 to location_68, value 68
+Adding edge from humidity_65 to location_69, value 69
+Adding edge from humidity_66 to location_70, value 70
+Adding edge from humidity_67 to location_71, value 71
+Adding edge from humidity_68 to location_72, value 72
+Adding edge from humidity_69 to location_73, value 73
+Adding edge from humidity_70 to location_74, value 74
+Adding edge from humidity_71 to location_75, value 75
+Adding edge from humidity_72 to location_76, value 76
+Adding edge from humidity_73 to location_77, value 77
+Adding edge from humidity_74 to location_78, value 78
+Adding edge from humidity_75 to location_79, value 79
+Adding edge from humidity_76 to location_80, value 80
+Adding edge from humidity_77 to location_81, value 81
+Adding edge from humidity_78 to location_82, value 82
+Adding edge from humidity_79 to location_83, value 83
+Adding edge from humidity_80 to location_84, value 84
+Adding edge from humidity_81 to location_85, value 85
+Adding edge from humidity_82 to location_86, value 86
+Adding edge from humidity_83 to location_87, value 87
+Adding edge from humidity_84 to location_88, value 88
+Adding edge from humidity_85 to location_89, value 89
+Adding edge from humidity_86 to location_90, value 90
+Adding edge from humidity_87 to location_91, value 91
+Adding edge from humidity_88 to location_92, value 92
+Adding edge from humidity_89 to location_93, value 93
+Adding edge from humidity_90 to location_94, value 94
+Adding edge from humidity_91 to location_95, value 95
+Adding edge from humidity_92 to location_96, value 96
+
+
+Line 56 93 4
+
+Adding edge from humidity_93 to location_56, value 56
+Adding edge from humidity_94 to location_57, value 57
+Adding edge from humidity_95 to location_58, value 58
+Adding edge from humidity_96 to location_59, value 59
+
+
+Adding edge from seed_0 to soil_0, value 0
+Adding edge from seed_1 to soil_1, value 1
+Adding edge from seed_2 to soil_2, value 2
+Adding edge from seed_3 to soil_3, value 3
+Adding edge from seed_4 to soil_4, value 4
+Adding edge from seed_5 to soil_5, value 5
+Adding edge from seed_6 to soil_6, value 6
+Adding edge from seed_7 to soil_7, value 7
+Adding edge from seed_8 to soil_8, value 8
+Adding edge from seed_9 to soil_9, value 9
+Adding edge from seed_10 to soil_10, value 10
+Adding edge from seed_11 to soil_11, value 11
+Adding edge from seed_12 to soil_12, value 12
+Adding edge from seed_13 to soil_13, value 13
+Adding edge from seed_14 to soil_14, value 14
+Adding edge from seed_15 to soil_15, value 15
+Adding edge from seed_16 to soil_16, value 16
+Adding edge from seed_17 to soil_17, value 17
+Adding edge from seed_18 to soil_18, value 18
+Adding edge from seed_19 to soil_19, value 19
+Adding edge from seed_20 to soil_20, value 20
+Adding edge from seed_21 to soil_21, value 21
+Adding edge from seed_22 to soil_22, value 22
+Adding edge from seed_23 to soil_23, value 23
+Adding edge from seed_24 to soil_24, value 24
+Adding edge from seed_25 to soil_25, value 25
+Adding edge from seed_26 to soil_26, value 26
+Adding edge from seed_27 to soil_27, value 27
+Adding edge from seed_28 to soil_28, value 28
+Adding edge from seed_29 to soil_29, value 29
+Adding edge from seed_30 to soil_30, value 30
+Adding edge from seed_31 to soil_31, value 31
+Adding edge from seed_32 to soil_32, value 32
+Adding edge from seed_33 to soil_33, value 33
+Adding edge from seed_34 to soil_34, value 34
+Adding edge from seed_35 to soil_35, value 35
+Adding edge from seed_36 to soil_36, value 36
+Adding edge from seed_37 to soil_37, value 37
+Adding edge from seed_38 to soil_38, value 38
+Adding edge from seed_39 to soil_39, value 39
+Adding edge from seed_40 to soil_40, value 40
+Adding edge from seed_41 to soil_41, value 41
+Adding edge from seed_42 to soil_42, value 42
+Adding edge from seed_43 to soil_43, value 43
+Adding edge from seed_44 to soil_44, value 44
+Adding edge from seed_45 to soil_45, value 45
+Adding edge from seed_46 to soil_46, value 46
+Adding edge from seed_47 to soil_47, value 47
+Adding edge from seed_48 to soil_48, value 48
+Adding edge from seed_49 to soil_49, value 49
+Adding edge from seed_100 to soil_100, value 100
+Adding edge from fertilizer_61 to water_61, value 61
+Adding edge from water_95 to light_95, value 95
+Adding edge from light_0 to temperature_0, value 0
+Adding edge from light_1 to temperature_1, value 1
+Adding edge from light_2 to temperature_2, value 2
+Adding edge from light_3 to temperature_3, value 3
+Adding edge from light_4 to temperature_4, value 4
+Adding edge from light_5 to temperature_5, value 5
+Adding edge from light_6 to temperature_6, value 6
+Adding edge from light_7 to temperature_7, value 7
+Adding edge from light_8 to temperature_8, value 8
+Adding edge from light_9 to temperature_9, value 9
+Adding edge from light_10 to temperature_10, value 10
+Adding edge from light_11 to temperature_11, value 11
+Adding edge from light_12 to temperature_12, value 12
+Adding edge from light_13 to temperature_13, value 13
+Adding edge from light_14 to temperature_14, value 14
+Adding edge from light_15 to temperature_15, value 15
+Adding edge from light_16 to temperature_16, value 16
+Adding edge from light_17 to temperature_17, value 17
+Adding edge from light_100 to temperature_100, value 100
+Adding edge from humidity_97 to location_97, value 97
+adding seed_79 to queue
+adding soil_81 to queue
+adding fertilizer_81 to queue
+adding seed_14 to queue
+adding soil_14 to queue
+adding fertilizer_53 to queue
+adding water_49 to queue
+adding light_42 to queue
+adding temperature_42 to queue
+adding humidity_43 to queue
+adding location_43 to queue
+adding seed_55 to queue
+adding soil_57 to queue
+adding fertilizer_57 to queue
+adding water_53 to queue
+adding light_46 to queue
+adding temperature_82 to queue
+adding humidity_82 to queue
+adding location_86 to queue
+adding _86 to queue
+adding seed_13 to queue
+adding soil_13 to queue
+adding fertilizer_52 to queue
+adding water_41 to queue
+adding light_34 to queue
+adding temperature_34 to queue
+adding humidity_35 to queue
+adding location_35 to queue
+#<Graph:0x0000000104fdac50>
