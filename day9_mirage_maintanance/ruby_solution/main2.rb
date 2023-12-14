@@ -7,7 +7,7 @@ end
 
 subdatas = []
 data.each do |row|
-  subdata = [row]
+  subdata = [row.reverse] # i just love how this is the only difference between this and the part 1 solution
   loop_idx = 0
   loop do
     subdata << Array.new(subdata.last.size - 1) { 0 }
@@ -23,14 +23,12 @@ end
 subdatas.each do |subdata|
   subdata.reverse.each_with_index do |row, idx|
     if idx == 0
-      subdata[subdata.size - idx - 1] = [0] + row
+      row << 0
     else
-      subdata[subdata.size - idx - 1] = [(row.first - subdata[subdata.size - idx][0])] + row
+      row << row.last + subdata.reverse[idx - 1].last
     end
   end
 end
 
-sum = 0
-subdatas.each { |subdata| sum += subdata.map(&:first).first}
+puts subdatas.map { |subdata| subdata.first.last }.sum
 
-puts sum

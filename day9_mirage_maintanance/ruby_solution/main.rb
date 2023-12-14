@@ -7,6 +7,7 @@ end
 
 subdatas = []
 data.each do |row|
+
   subdata = [row]
   loop_idx = 0
   loop do
@@ -30,7 +31,5 @@ subdatas.each do |subdata|
   end
 end
 
-sum = 0
-subdatas.each { |subdata| sum += subdata.first.last }
+puts subdatas.map { |subdata| subdata.first.last }.sum
 
-puts sum
